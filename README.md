@@ -1,4 +1,4 @@
-# API Bancos Públicas de Costa Rica
+# API Abiertas Bancos de Costa Rica
 
 *Lista de APIs abiertas de Costa Rica para uso en software y desarrollo web relacionada a bancos públicos y privados de Costa Rica.*
  
